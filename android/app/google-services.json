@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "653280927039",
+    "project_id": "logindepress-13257",
+    "storage_bucket": "logindepress-13257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653280927039:android:c21e54a70dbb7f6cb3c78a",
+        "android_client_info": {
+          "package_name": "com.example.depress_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653280927039-hff3esr2o08me1faba7f3bc153i0oqi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv5yeFHZn6oAFmUqCp5NybPgcjkTyrICA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653280927039-hff3esr2o08me1faba7f3bc153i0oqi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
